@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Framework driven Frontend Development**
 
-- 🌱 I’m currently learning **React, NodeJS , MongoDB**
+- 🌱 I’m currently learning **React, NextJS , NodeJS**
 
 - 👯 I’m looking to collaborate on **Web Technologies**
 
