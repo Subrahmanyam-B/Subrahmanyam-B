@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subrahmanyam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Framework driven Frontend Development**
+- 🔭 I’m a **MERN Stack Developer**
 
-- 🌱 I’m currently learning **React, NodeJS , MongoDB**
+- 🌱 I’m currently learning **NextJS, GraphQL , MongoDB**
 
 - 👯 I’m looking to collaborate on **Web Technologies**
 
